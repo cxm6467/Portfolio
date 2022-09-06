@@ -5,3 +5,5 @@ dist/
 .DS_Store
 coverage/
 .vscode/
+build/
+**/__snapshots__
